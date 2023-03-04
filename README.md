@@ -1,4 +1,4 @@
-# Start Template: Gulp + WebPack + Babel
+# Start Template: Gulp + WebPack + Babel проверка ветки Main
 
 Сборку делал по примеру автора [youtube](https://www.youtube.com/watch?v=jU88mLuLWlk) канала: [Фрилансер по жизни](https://www.youtube.com/c/FreelancerLifeStyle)
 
